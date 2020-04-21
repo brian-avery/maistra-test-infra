@@ -124,6 +124,7 @@ presubmits:
     always_run: true
     skip_report: false
     branches:
+      - maistra-1.1
       - maistra-1.2
     spec:
       containers:
@@ -138,6 +139,7 @@ presubmits:
     always_run: true
     skip_report: false
     branches:
+      - maistra-1.1
       - maistra-1.2
     spec:
       containers:
